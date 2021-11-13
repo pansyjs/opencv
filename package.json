@@ -9,7 +9,7 @@
     "index.d.ts"
   ],
   "scripts": {
-    "release": "release"
+    "release": "release --skipBuild"
   },
   "repository": "git@github.com:pansyjs/opencv.git",
   "author": "wangxingkang <156148958@qq.com>",
