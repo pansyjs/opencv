@@ -17,5 +17,9 @@
   "devDependencies": {
     "@walrus/release-cli": "1.0.5",
     "typescript": "4.4.4"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
   }
 }
