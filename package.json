@@ -1,7 +1,7 @@
 {
   "name": "@pansy/opencv",
   "version": "4.5.4",
-  "main": "./lib/index.js",
+  "main": "./lib/opencv.js",
   "types": "./index.d.ts",
   "files": [
     "lib",
